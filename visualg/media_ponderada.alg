@@ -11,7 +11,7 @@ Inicio
    leia(N)
    
    para i de 1 ate N faca
-      escreval("Digite tres numeros:")
+      escreval("Digite ", n, " numeros:")
       leia(a)
       leia(b)
       leia(c)
